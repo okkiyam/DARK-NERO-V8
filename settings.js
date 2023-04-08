@@ -16,29 +16,29 @@ global.doc6 = 'application/vnd.android.package-archive'
 //owmner v card
 global.ANTI_BADWORD = 'true' // true of false
 global.AUTO_REACT = 'true' // true of false
-global.INBOX_BLOCK_MSG ='𝙄𝙉𝘽𝙊𝙓 𝙢𝙚𝙨𝙨𝙖𝙜𝙚 𝙞𝙨 𝙣𝙤𝙩 𝙖𝙡𝙡𝙤𝙬😈😏 𝙲𝚘𝚗𝚝𝚊𝚌𝚝 𝚖𝚢 𝚘𝚠𝚗𝚎𝚛 𝚅𝙸𝙷𝙰𝙽𝙶𝙰'
+global.INBOX_BLOCK_MSG ='inbox msg no"t allowed ☞ Owenr By Dinuka'
 global.INBOX_BLOCK = 'on' //inbox block
 global.alivemsg = '_Hey Bro My Bot Is Alive Now 👻🌺🥀_           ©    *Type { .menu } To Get More Commands            *❮🧸͚̩̆̆̆̆̆⊱─⃟🍒♥⃝๛⃞⃯💝අ̶හි̲̅මි̶ වී̲̅⃝⃡ම̶̷͟🧸 දු̲̅ක̶ක̶්̡̅   ̶න̶ම̶්ꪶ𖣔ꫂ අ̶ත̲̅හැ̲̅රි̶̏ම̶̷᭳͟ ⃝  ̲̅ලො̲̅කු̶̲̅ම̲̅⃞🔝🧸 ස̲̅තු̶̲̅ට̶̳̳යි̶̏๛⃞⃯♥🐹❮🧸͚̩̆̆̆̆̆⊱─⃟🍒               ```By Vihanga MD 😙♥️```'
-global.alivepic = 'https://i.ibb.co/BBMFqyb/fcddf4260e88d5e5bf55e7043436d8fd-0.jpg'
-global.owner = ['0761105459'] //ur owner number
-global.ownername = "Vihanga Methsara" //ur owner name
+global.alivepic = 'https://i.ibb.co/jThYdmk/20230405-081007.jpg'
+global.owner = ['0717845122'] //ur owner number
+global.ownername = "Dimuth Dinuka" //ur owner name
 global.ytname = "YT: Dark" //ur yt chanel name
 global.socialm = "GitHub: Dark" //ur github or insta name
 global.location = "India, Mizoram, Aizawl" //ur location
 
 //bot bomdy 
 global.session = "NFoyRDl1VDE=" //session Id
-global.ownernomer = "94761105459" //ur number
+global.ownernomer = "94717845122" //ur number
 global.lang = "SI" //Select Language "EN" to English "SI" to sinhala 
-global.premium = ['94761105458'] //ur premium number
-global.botname = '__Vihanga_Official_🎧♥️🍃' //ur bot name
-global.linkz = "https://chat.whatsapp.com/HYj9wu5Jrv6CROxyeQbHoS" //your theme url which will be displayed on whatsapp
+global.premium = ['94717845122'] //ur premium number
+global.botname = '_Dinux Official_🎧♥️🍃' //ur bot name
+global.linkz = "https://chat.whatsapp.com/HGNH6ByjxtY6KIIQf31rva" //your theme url which will be displayed on whatsapp
 global.websitex = "https://youtu.be/WiIqCdiDjFo" //ur website to be displayed
 global.botscript = 'https://www.darknero.ga/' //script link
 global.themeemoji = "🦄" //ur theme emoji
-global.packname = "Dark Nero By" //ur sticker watermark packname
-global.author = "Dark Nero Creating By Cyber Yakuza Team" //ur sticker watermark author
-global.wm = "Dark Bot Inc." //ur watermark
+global.packname = "Dinux Official By" //ur sticker watermark packname
+global.author = "Dinux official Creating By ● Dinuka" //ur sticker watermark author
+global.wm = "Dinux Bot Inc." //ur watermark
 
 // Other
 global.sessionName = 'session'
