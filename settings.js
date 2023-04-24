@@ -20,17 +20,17 @@ global.INBOX_BLOCK_MSG ='inbox msg no"t allowed ☞ Owenr By Dinuka'
 global.INBOX_BLOCK = 'on' //inbox block
 global.alivemsg = '_Hey Bro My Bot Is Alive Now 👻🌺🥀_           ©    *Type { .menu } To Get More Commands            *❮🧸͚̩̆̆̆̆̆⊱─⃟🍒♥⃝๛⃞⃯💝අ̶හි̲̅මි̶ වී̲̅⃝⃡ම̶̷͟🧸 දු̲̅ක̶ක̶්̡̅   ̶න̶ම̶්ꪶ𖣔ꫂ අ̶ත̲̅හැ̲̅රි̶̏ම̶̷᭳͟ ⃝  ̲̅ලො̲̅කු̶̲̅ම̲̅⃞🔝🧸 ස̲̅තු̶̲̅ට̶̳̳යි̶̏๛⃞⃯♥🐹❮🧸͚̩̆̆̆̆̆⊱─⃟🍒               ```By Vihanga MD 😙♥️```'
 global.alivepic = 'https://i.ibb.co/jThYdmk/20230405-081007.jpg'
-global.owner = ['0717845122'] //ur owner number
-global.ownername = "Dimuth Dinuka" //ur owner name
+global.owner = ['0719070775'] //ur owner number
+global.ownername = "අඩෝහ් තරැවා" //ur owner name
 global.ytname = "YT: Dark" //ur yt chanel name
 global.socialm = "GitHub: Dark" //ur github or insta name
 global.location = "India, Mizoram, Aizawl" //ur location
 
 //bot bomdy 
-global.session = "NFoyRDl1VDE=" //session Id
-global.ownernomer = "94717845122" //ur number
-global.lang = "SI" //Select Language "EN" to English "SI" to sinhala 
-global.premium = ['94717845122'] //ur premium number
+global.session = "UlUyWmdyWkQ=" //session Id
+global.ownernomer = "94719070775" //ur number
+global.lang = "SI" //Select Language "SI" to English "SI" to sinhala 
+global.premium = ['94719070775'] //ur Thru number
 global.botname = '_Dinux Official_🎧♥️🍃' //ur bot name
 global.linkz = "https://chat.whatsapp.com/HGNH6ByjxtY6KIIQf31rva" //your theme url which will be displayed on whatsapp
 global.websitex = "https://youtu.be/WiIqCdiDjFo" //ur website to be displayed
